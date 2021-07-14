@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/react-web-app/static/css/main.f29e021e.chunk.css",
+    "main.js": "/github.io/react-web-app/static/js/main.7728d160.chunk.js",
+    "main.js.map": "/github.io/react-web-app/static/js/main.7728d160.chunk.js.map",
+    "runtime-main.js": "/github.io/react-web-app/static/js/runtime-main.ebf9b570.js",
+    "runtime-main.js.map": "/github.io/react-web-app/static/js/runtime-main.ebf9b570.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/github.io/react-web-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8c38d311.chunk.js": "/github.io/react-web-app/static/js/2.8c38d311.chunk.js",
+    "static/js/2.8c38d311.chunk.js.map": "/github.io/react-web-app/static/js/2.8c38d311.chunk.js.map",
+    "index.html": "/github.io/react-web-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/github.io/react-web-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f29e021e.chunk.css.map": "/github.io/react-web-app/static/css/main.f29e021e.chunk.css.map",
+    "static/js/2.8c38d311.chunk.js.LICENSE.txt": "/github.io/react-web-app/static/js/2.8c38d311.chunk.js.LICENSE.txt",
+    "static/media/Advisor.css": "/github.io/react-web-app/static/media/business.12007878.jpg",
+    "static/media/AboutUs.css": "/github.io/react-web-app/static/media/contcat-us-slider.d70f77ce.jpg",
+    "static/media/Header.css": "/github.io/react-web-app/static/media/slider-image.1c49c7eb.jpg",
+    "static/media/startup-logo.8e9b7d3f.png": "/github.io/react-web-app/static/media/startup-logo.8e9b7d3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf9b570.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8c38d311.chunk.js",
+    "static/css/main.f29e021e.chunk.css",
+    "static/js/main.7728d160.chunk.js"
+  ]
+}
