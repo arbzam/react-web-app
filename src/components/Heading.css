@@ -1,0 +1,10 @@
+.footer-head-con h2{
+    font-family: var(--poppins);
+    text-transform: uppercase;
+    color: var(--text-white);
+    font-size: 24px;
+    font-weight: 400;
+}
+.footer-head-con {
+    margin-bottom: 30px;
+}

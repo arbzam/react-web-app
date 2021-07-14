@@ -1,0 +1,59 @@
+.main-nav{
+    padding: 27px 0;
+}
+.custom-ul .nav-item{
+    padding: 0 18px;
+}
+.custom-ul .nav-item:first-child{
+    padding-left: 0;
+}
+.custom-ul .nav-item:last-child{
+    padding-right: 0;
+}
+.custom-ul .nav-item a{
+    padding: 0;
+    font-family: var(--poppins);
+    text-transform: capitalize;
+    color: var(--text-black);
+    font-size: 16px;
+    font-weight: 400;
+    transition: color .3s ease;
+    position: relative;
+}
+.custom-ul .nav-item:hover a{
+    color: var(--primary);
+    transition: var(--trans);
+}
+.custom-ul .nav-item a::after{
+    position: absolute;
+    content: "";
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--primary);
+    top: 100%;
+    margin-top: 5px;
+    transition: width .4s ease;
+}
+.custom-ul .nav-item:hover a::after{
+    width: 50%;
+}
+
+.active{
+    color: var(--primary) !important;
+  }
+  .active::after{
+    position: absolute;
+    content: "";
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--primary);
+    top: 100%;
+    margin-top: 5px;
+    transition: width .4s ease;
+  }
+  .custom-ul .nav-item .active::after{
+    width: 50%;
+  }
+ 

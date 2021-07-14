@@ -1,0 +1,66 @@
+.header-head{
+    font-family: var(--poppins);
+    text-transform: capitalize;
+    color: var(--text-black);
+    font-size: 60px;
+    font-weight: 400;
+}
+.header-head span{
+    color: var(--text-primary);
+    font-size: 60px;
+}
+.head-con{
+    max-width: 700px;
+    margin-bottom: 30px;
+}
+.para-con{
+    max-width: 600px;
+    margin-bottom: 30px;
+}
+.para-con p{
+    font-family: var(--poppins);
+    text-transform: capitalize;
+    color: var(--text-black);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.flex-btn{
+    display: flex;
+    align-items: center;
+}
+.flex-btn button{
+    min-height: 45px;
+    min-width: 140px;
+    border-radius: 8px;
+    outline: none;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-family: var(--poppins);
+    text-transform: capitalize;
+    text-align: center;
+    box-shadow: var(--btn-shade);
+    font-weight: 500;
+}
+.flex-btn .header-read-btn {
+    margin-right: 17px;
+    border: 1px solid #cfcfcf;
+    transition: background-color .4s ease;
+}
+.flex-btn .header-contact-btn {
+    background: var(--primary);
+    color: var(--text-white);
+    transition: background-color .4s ease;
+}
+.flex-btn .header-read-btn:hover{
+
+    background: var(--primary);
+    color: var(--text-white);
+}
+.flex-btn .header-contact-btn:hover{
+    background: var(--text-white);
+    color: var(--text-black) !important;
+}

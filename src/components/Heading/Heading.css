@@ -1,0 +1,29 @@
+.package-head{
+    text-align: center;
+    max-width: 400px;
+    padding: 0 50px;
+    word-wrap: break-word;
+}
+.package-head span{
+    font-size: 20px;
+    font-weight: normal;
+    color: var(--text-white);
+    text-transform: capitalize;
+    font-family: var(--poppins);
+}
+.package-head h2{
+    font-size: 34px;
+    font-weight: 500;
+    color: var(--text-white);
+    text-transform: capitalize;
+    font-family: var(--poppins);
+    margin-top: 5px;
+}
+.package-head-con{
+    display: flex;
+    align-items: center;
+}
+.left-line , .right-line{
+border-bottom: 2px solid var(--text-white);
+width: 100%;
+}

@@ -1,0 +1,54 @@
+.about-us-para-con{
+    padding: 40px 0;
+}
+/* .about-us-para-con{
+
+} */
+.about-us-para-con p{
+    font-family: var(--poppins);
+    text-transform: capitalize;
+    font-weight: 400;
+    color: rgba(18, 18, 18, 0.8);
+    font-size: 20px;
+}
+.in-touch{
+    background: url('../../images/contcat-us-slider.jpg');
+    max-width: 100%;
+    background-position: center;
+    min-height: 470px;
+    background-repeat: no-repeat;
+}
+.about-us-page-head{
+    margin: 50px 0;
+    margin-bottom: 0;
+}
+.about-us-page-head .package-head{
+    text-align: center;
+    max-width: 400px;
+    padding: 0 30px;    
+    min-width: 235px;
+    word-wrap: break-word;
+}
+.about-us-page-head .package-head span{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgba(18, 18, 18, 0.8);;
+    text-transform: capitalize;
+    font-family: var(--poppins);
+}
+.about-us-page-head .package-head h2{
+    font-size: 34px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.8);;
+    text-transform: capitalize;
+    font-family: var(--poppins);
+    margin-top: 5px;
+}
+.about-us-page-head .package-head-con{
+    display: flex;
+    align-items: center;
+}
+.about-us-page-head .left-line , .about-us-page-head .right-line{
+border-bottom: 2px solid rgba(18, 18, 18, 0.8);;
+width: 100%;
+}

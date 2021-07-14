@@ -1,0 +1,9 @@
+.main-header{
+    background: url('../../images/slider-image.jpg');
+    background-position:  center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    min-height: 802px;
+}

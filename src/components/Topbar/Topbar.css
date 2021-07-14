@@ -1,0 +1,24 @@
+.top-section{
+    min-height: 49px;
+    background: var(--primary);
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-link{
+    display: flex;
+    justify-content: flex-end;
+}
+.timings , .contact-link a{
+    font-family: var(--roboto);
+    text-transform: capitalize;
+    color: var(--text-white);
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.timings span , .contact-link a span{
+    margin-right: 8px;
+    color: var(--text-white);
+}

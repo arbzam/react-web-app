@@ -1,0 +1,36 @@
+.short-about{
+    background: linear-gradient(to right, #191a1b 41%, #333333 40%);
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+}
+.footer-para-con{
+    margin-bottom: 20px;
+    max-width: 300px;
+}
+.footer-para-con p{
+    font-family: var(--poppins);
+    text-transform:capitalize;
+    color: var(--text-9);
+    font-size: 14px;
+    font-weight: 500;
+}
+.footer-ul-con ul li , .choose-ul li , .short-para{
+    font-family: var(--poppins);
+    text-transform:capitalize;
+    color: var(--text-9);
+    font-size: 14px;
+    font-weight: 400; 
+    padding: 14px 0;
+}
+.footer-ul-con ul li span , .choose-ul li, span{
+    font-family: var(--poppins);
+    text-transform:capitalize;
+    color: var(--text-9);
+    font-size: 14px;
+    font-weight: 400; 
+    margin-right: 6px;
+}
+.choose-us-con{
+    margin-left: 50px;
+}
